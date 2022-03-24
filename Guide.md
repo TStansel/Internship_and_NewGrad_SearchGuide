@@ -98,7 +98,7 @@ Internships are the closest thing to an actual full time software engineering jo
 ## The Internship/New Grad Search
 To get an internship or full-time role there are two steps: 
 1. Apply
-2.Pass interviews
+2. Pass interviews
 
 I talk about each of these steps in detail below, but the TLDR is to put yourself in the best position possible to pass the interview and then apply to anything and everything.
 
