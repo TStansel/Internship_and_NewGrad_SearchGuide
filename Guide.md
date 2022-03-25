@@ -175,6 +175,8 @@ Lastly, if you absolutely cannot think of an idea, use one of mine.
 
 The other thing to know, these ideas above may look daunting but break them down into pieces. For example, the Flappy Bird clone maybe just find a tutorial on line or for the Text To Art, the first thing you'll need to do is read in a String from the user, then split it into a list of 3 characters, etc. The goal is to identifiy the small peices and then start there.
 
+There is a difference between following a Youtube demo and making a project, however you can follow a tutorial to a tee and then change it up a bit to make it your own. For example, I followed a tutorial to create a travel site to learn about React and then changed it and built some custom components to make it my own personal site.
+
 #### How to describe your contributions at a job?
 Bullet points should be front loaded with metrics. Do not say, I created a tool to view data. Instead say, Saved X hours a week by creating a tool to extract data from a 10,000 events per day api.
 
