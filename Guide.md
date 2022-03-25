@@ -162,6 +162,19 @@ Unpaid experience really shouldn’t exist in the world but it does and so here 
 
 When working on your side projects, pick something that excites you so when you are talking about it on your resume and in an interview that passion and excitement shines through.
 
+#### What if you can't think of an idea for a projet?
+Most students I've talked to get stuck thinking they have to come up with the next Google for their side project. You don't. You can absolutely re-invent the wheel here or do something that will never make a doller. Remeber the goal here is not to make a startup but instead to gain experience for your resume.
+
+Hackathons are also extremely useful. (mlh.io)[https://mlh.io] is a good resource to find hackathons, but often clubs on campus will do them. Go with an idea or don't, the goal is to just kickstart that side project. Get a lot of progress done in a 24 or 36 hour period then make small peridotic updates throughout the semester.
+
+Lastly, if you absolutely cannot think of an idea, use one of mine.
+* Text To Art - Take in a string, section off 3 characters at a time, convert it to hexadeciaml, and turn it into a pixel
+* Alexa CAPS - Make an Alexa skill that lets a student ask for their university's Counseling and Psychological Services phone number for them to call
+* TherAssist - Using a pre-trained machine learning model detect emotion in a human face to see if the user is replicating the emotion shown
+* Flappy Bird clone - Android, iOS, or Web App of the famous Flappy Bird game
+
+The other thing to know, these ideas above may look daunting but break them down into pieces. For example, the Flappy Bird clone maybe just find a tutorial on line or for the Text To Art, the first thing you'll need to do is read in a String from the user, then split it into a list of 3 characters, etc. The goal is to identifiy the small peices and then start there.
+
 #### How to describe your contributions at a job?
 Bullet points should be front loaded with metrics. Do not say, I created a tool to view data. Instead say, Saved X hours a week by creating a tool to extract data from a 10,000 events per day api.
 
