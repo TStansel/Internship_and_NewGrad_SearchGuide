@@ -45,6 +45,17 @@ There will be many times in college that will make you question if Computer Scie
  
 These projects will teach you many new things about programming. These new things you learn will continue to grow your skills, will keep your interest in CS piqued, and they will do wonders for your resume.
 
+## What to do if you are in year X at university?
+Some people may say it is best to focus on projects in year 1 and year 2 and then focus on interview prep year 3 and year 4.
+
+I disagree.
+
+My advice below I believe applies no matter where you are in software engineering journey. The only caveat I will add to the advice that follows is, at some point you may have to have a honest conversation with yourself. A part of getting that first FANNG+ internship of getting a new grad offer there is luck, and sometimes you are just unlucky.
+
+Rather than just working on projects and preparing for interviews, it may best to accept a full time offer or internship that is not what your exact goal was initially. It may take you an extra year or two or three you finally get to that dream company of yours. It took me 3 summers before I got an internship with a big tech company, it may take you less it may take you more. You may never get an internship at a big tech company but then get a new grad offer. You may have to start somewhere else for new grad and switch into a big tech company a few years later.
+
+The point here is that just because you miss your goal, or you don't realize the amount of work it takes until your last year in university you can still reach that goal if you extend the timeline a bit.
+
 ## How important is a top 10 Computer Science university?
 Here is the thing about top schools. Attending a top school will absolutely help you land internships at top companies, but probably not for the reason you think. The education will be better, but you will learn the same things at any school. The main difference between a state school and a top 10 school is the network.
 
