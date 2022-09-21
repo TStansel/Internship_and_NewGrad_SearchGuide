@@ -84,6 +84,7 @@ You gotta know where you want to be before you can make a plan to get there. My 
 * Create at least one side project a year
 * Have a tech related part-time job throughout the school year
 * Have a software engineering internship each summer
+
 This is not the only plan that will work, it is just the plan that I chose for me. Here’s why:
 
 #### 3.2 GPA
@@ -179,7 +180,7 @@ Most students I've talked to get stuck thinking they have to come up with the ne
 Hackathons are also extremely useful. (mlh.io)[https://mlh.io] is a good resource to find hackathons, but often clubs on campus will do them. Go with an idea or don't, the goal is to just kickstart that side project. Get a lot of progress done in a 24 or 36 hour period then make small peridotic updates throughout the semester.
 
 Lastly, if you absolutely cannot think of an idea, use one of mine.
-* Text To Art - Take in a string, section off 3 characters at a time, convert it to hexadeciaml, and turn it into a pixel
+* Text To Art - Take in a string, section off 3 characters at a time, convert it to hexadecimal, and turn it into a pixel
 * Alexa CAPS - Make an Alexa skill that lets a student ask for their university's Counseling and Psychological Services phone number for them to call
 * TherAssist - Using a pre-trained machine learning model detect emotion in a human face to see if the user is replicating the emotion shown
 * Flappy Bird clone - Android, iOS, or Web App of the famous Flappy Bird game
