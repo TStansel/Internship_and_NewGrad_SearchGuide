@@ -26,11 +26,11 @@ To establish that this guide will be helpful and that I have some idea as to wha
 
 **January 2022:** Second semester of third year. With the start of the new year, I was given a project with another intern to work on. The idea was to save developers a few hours a week; by creating a tool that would extract failure data from a process with ~30,000 events a week and present the data in a helpful way.
 
-**June 2022:** Start of internship with Amazon in Seattle. (I have already signed this offer just not started yet)
+**June 2022:** Start of internship with Amazon in Seattle. I worked on a team that manages analytics for on-demand call centers in AWS. My project was to create the cloud architecture for a new ML endpoint to create new analytics. Here I worked in Kotlin and with CDK.
 
-**September 2022:** Start of internship with Lyft in the Bay Area but working remote. (I have already signed this offer just not started yet)
+**September 2022:** Start of internship with Lyft working remote. I worked on a team that is working to create a mapping system for Lyft. My project was to update a testing suite that compared the output from a stable version and a new version of the mapping system to ensure there were no unintended changes to the directions produced.
 
-**January 2023:** Start of final semester of university.
+**January 2023:** Start of final semester of university and start of new grad role at Lucid Software. My initial offer was for starting after graduation but because I only have a single class left I was able to start full time work in January. My team is working on creating a new product for Lucid.
 
 ## What to do if you are in High School?
 Being in High School and knowing you want to be a Software Engineer puts you light years ahead of the average student. Most college students change majors at least once, so knowing what you want to major in puts you ahead of the game. Even further, starting to learn the basics about programming will exponentially increase the distance between you and other students.
@@ -50,11 +50,11 @@ Some people may say it is best to focus on projects in year 1 and year 2 and the
 
 I disagree.
 
-My advice below I believe applies no matter where you are in software engineering journey. The only caveat I will add to the advice that follows is, at some point you may have to have a honest conversation with yourself. A part of getting that first FANNG+ internship of getting a new grad offer there is luck, and sometimes you are just unlucky.
+My advice below I believe applies no matter where you are in software engineering journey. The only caveat I will add to the advice that follows is, at some point you may have to have a honest conversation with yourself. A part of getting that first FANNG+ internship or getting a new grad offer there is luck, and sometimes you are just unlucky.
 
 Rather than just working on projects and preparing for interviews, it may best to accept a full time offer or internship that is not what your exact goal was initially. It may take you an extra year or two or three you finally get to that dream company of yours. It took me 3 summers before I got an internship with a big tech company, it may take you less it may take you more. You may never get an internship at a big tech company but then get a new grad offer. You may have to start somewhere else for new grad and switch into a big tech company a few years later.
 
-The point here is that just because you miss your goal, or you don't realize the amount of work it takes until your last year in university you can still reach that goal if you extend the timeline a bit.
+The point here is that just because you miss your goal, or you don't realize the amount of work it takes until your last year in university, you can still reach that goal if you extend the timeline a bit.
 
 ## How important is a top 10 Computer Science university?
 Here is the thing about top schools. Attending a top school will absolutely help you land internships at top companies, but probably not for the reason you think. The education will be better, but you will learn the same things at any school. The main difference between a state school and a top 10 school is the network.
@@ -161,7 +161,7 @@ I organize my resume in the following order of importance:
 
 **Education** is the next most important thing assuming you are a student. Recruiters need to know when you graduate to determine if you qualify for the job. If you don’t include an expected graduation date or your actual graduation date you are just delaying a rejection at worst or making recruiters do more work at best. Neither suits you well.
 
-I talked about GPA in another section but rule of thumb is if it is greater than a 3.2 put it on if not leave it off and provide it when asked.
+I talked about GPA in another section but rule of thumb is if it is greater than a 3.0 put it on if not leave it off and provide it when asked.
 
 **Paid Experience** is the best thing to show recruiters that you are qualified outside of meeting the arbitrary list of requirements they have. Paid experience shows that someone else was willing to pay you because you were good enough to provide a service.
     
@@ -182,9 +182,9 @@ Lastly, if you absolutely cannot think of an idea, use one of mine.
 * Text To Art - Take in a string, section off 3 characters at a time, convert it to hexadeciaml, and turn it into a pixel
 * Alexa CAPS - Make an Alexa skill that lets a student ask for their university's Counseling and Psychological Services phone number for them to call
 * TherAssist - Using a pre-trained machine learning model detect emotion in a human face to see if the user is replicating the emotion shown
-* Flappy Bird clone - Android, iOS, or Web App of the famous Flappy Bird game
+* Flappy Bird Clone - Android, iOS, or Web App of the famous Flappy Bird game
 
-The other thing to know, these ideas above may look daunting but break them down into pieces. For example, the Flappy Bird clone maybe just find a tutorial on line or for the Text To Art, the first thing you'll need to do is read in a String from the user, then split it into a list of 3 characters, etc. The goal is to identifiy the small peices and then start there.
+The other thing to know, these ideas above may look daunting but break them down into pieces. For example, the Flappy Bird clone maybe just find a tutorial on line or for the Text To Art, the first thing you'll need to do is read in a String from the user, then split it into a list of 3 characters, etc. The goal is to identifiy the small pieces and then start there.
 
 There is a difference between following a Youtube demo and making a project, however you can follow a tutorial to a tee and then change it up a bit to make it your own. For example, I followed a tutorial to create a travel site to learn about React and then changed it and built some custom components to make it my own personal site.
 
@@ -247,7 +247,7 @@ The more practice you do the better off you will be for the interview, but remem
 No matter how much preparation you do you will not be able to study every type of data structure and every type of algorithm. There is always a chance the interviewer gives you a kind of problem you have not practiced. Understanding this is a part of the game, and will allow you to deal with rejection much easier.
 
 #### How to deal with rejection?
-Rejection is a huge part of the recruitment search. Learn to let it roll over your back. Easier said than done, but the following has helped me.
+Rejection is a huge part of the recruitment search. Learn to let it roll off your back. Easier said than done, but the following has helped me.
 
 Understand that companies would much rather not hire a great candidate than hire a terrible one. What this means is that many candidates, who are qualified, get filtered out. Whether it is because of the automatic resume processor the company uses or getting unlucky and getting a technical problem you have not practiced, you will experience many rejections as you go throughout the recruitment process.
 
@@ -258,7 +258,7 @@ To further expunge yourself of any doubt here, think about how many algorithm an
 ## Closing Advice
 I have found that most students are not confident in themselves and it makes sense. It is hard to go from being a new software engineer to trying to negotiate with massive multibillion dollar companies. The most important thing to remember is you are a valuable resource and the company needs you. I show whatever level of respect I am shown from a company. If they give me an offer and only a week or two to accept, I am more than happy to accept and renege later if I get a better offer. **Adopt the same attitude.** Companies are a dime a dozen, don't let them convince you otherwise.
 
-Have a brutally honest conversation with yourself and figure out what you need most from a job. Do you care about money if feels like you are making an impact? Is learning the most important thing to you? Can you compromise work life balance if it means making more money?
+Have a brutally honest conversation with yourself and figure out what you need most from a job. Do you care about money, if feels like you are making an impact? Is learning the most important thing to you? Can you compromise work life balance if it means making more money?
 
 Identify what your top 3 incentives are and never compromise. It does not matter if this means quitting an internship halfway through or quitting a job on your second day—fight for your incentives.
  
